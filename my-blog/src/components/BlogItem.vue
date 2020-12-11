@@ -25,7 +25,6 @@ export default {
    html{
       --bgColor: #ffffff;
     background: #f3f3f3;
-    /* rgba的四个值分别为：红(R)、绿(G)、蓝(B)、透明度(A) */
     --whiteShadow: -20px -20px 60px #ffffff;
     --blackShadow: 15px 25px 40px #d9d9d9;
     }
@@ -59,7 +58,6 @@ export default {
   }
   .page-tags {
     margin: 20px 0;
-    color:#555555;
     font-size: 16px;
     font-weight: 400;
   }
@@ -69,7 +67,7 @@ export default {
     padding: 4px 16px;
     margin: 0 20px;
     border-radius: 20px;
-    color: #adb5bd;
+    color:#fdc27a;
 background: rgb(255, 228, 192);
 background: rgb(219, 219, 219, 0.25);
 box-shadow:  4px 4px 10px rgb(224, 219, 219), 

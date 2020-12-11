@@ -32,6 +32,7 @@ export default {
 .side {
   height: 100vh;
   width: 20%;
+  max-width: 220px;
   background: #f8f9fa;
   border-right: 2px solid #ffffff;
 }
